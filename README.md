@@ -3,12 +3,10 @@
 Model needs more training for it to have better scores. Right now, it trains for only 10000 episodes.
 
 ---
-
 #Double DQN
 The code runs Google Colab, still needs more debugging. 
 
 ---
-
 #TODO
 
 - [ ] Fix the overfitting issue in DDQN
